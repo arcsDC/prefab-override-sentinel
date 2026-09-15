@@ -1,0 +1,12 @@
+{
+  "name": "com.prefab-override-sentinel",
+  "version": "1.0.0",
+  "displayName": "Prefab Override Sentinel",
+  "description": "Scans scenes for prefab instances, categorizes overrides, and supports selective revert or promote operations.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Sentinel Team"
+  },
+  "keywords": ["prefab", "override", "editor", "unity"],
+  "dependencies": {}
+}
